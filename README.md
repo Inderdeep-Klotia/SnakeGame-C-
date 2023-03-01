@@ -15,4 +15,6 @@ Game made utilizing C++
 
 [How to Run]
 ------------------------------------------------------------
-- 
+- Clone repository onto local windows machine
+- Create new Visual Studio project
+- Execute SnakeGame.cpp to run the game
