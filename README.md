@@ -2,9 +2,9 @@ Snake
 ------------------------------------------------------------
 Game made utilizing C++
 
-<img width="450" alt="GameScreenshot" src="https://user-images.githubusercontent.com/68567294/122655937-6fd21980-d124-11eb-83a1-e8f0c212da94.png">
-<img width="450" alt="GameScreenshot" src="https://user-images.githubusercontent.com/68567294/122655937-6fd21980-d124-11eb-83a1-e8f0c212da94.png">
-<img width="450" alt="GameScreenshot" src="https://user-images.githubusercontent.com/68567294/122655937-6fd21980-d124-11eb-83a1-e8f0c212da94.png">
+<img width="450" alt="GameScreenshot" src="https://github.com/Inderdeep-Klotia/SnakeGame-C-/blob/1c9f289aa0304543e32c99404ed778a2288a233f/Menu%20Screenshot.PNG">
+<img width="450" alt="GameScreenshot" src="https://github.com/Inderdeep-Klotia/SnakeGame-C-/blob/1c9f289aa0304543e32c99404ed778a2288a233f/Gameover%20screenshot.PNG">
+<img width="450" alt="GameScreenshot" src="https://github.com/Inderdeep-Klotia/SnakeGame-C-/blob/1c9f289aa0304543e32c99404ed778a2288a233f/Gameover%20screenshot%20%232.PNG">
 
 
 [General Information]
